@@ -16,7 +16,7 @@ DAEMON_USER="pi:audio"
 
 # Device name as it will be advertised to and shown in the UPnP controller UI.
 # Some string that helps you recognize the player, e.g. "Livingroom Player"
-UPNP_DEVICE_NAME="Raspberry Pi"
+UPNP_DEVICE_NAME="PiRate"
 
 # Initial volume in decibel. 0.0 is 'full volume', -10 correspondents to '75' on
 # the exported volume scale (Note, this does not change the ALSA volume, only
